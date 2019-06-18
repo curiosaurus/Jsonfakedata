@@ -1,28 +1,28 @@
 {
   "tasks":[
     {
-    "id":1,
-    "title":"First Todo",
-    "discription":"Pay bill",
-    "completed":false,
-    "canceled":false,
-    "date":18/06/2019
+      "id":1,
+      "title":"First Todo",
+      "discription":"Pay bill",
+      "completed":false,
+      "canceled":false,
+      "date":18062019
     },
     {
-    "id":2,
-    "title":"Second Todo",
-    "discription":"Go to gym",
-    "completed":false,
-    "canceled":false,
-    "date":19/06/2019
+      "id":2,
+      "title":"Second Todo",
+      "discription":"Go to gym",
+      "completed":false,
+      "canceled":false,
+      "date":19062019
     },
     {
-    "id":3,
-    "title":"Third Todo",
-    "discription":"Submit assignment",
-    "completed":false,
-    "canceled":false,
-    "date":20/06/2019
+      "id":3,
+      "title":"Third Todo",
+      "discription":"Submit assignment",
+      "completed":false,
+      "canceled":false,
+      "date":20062019
     }
   ]
 }
