@@ -1,27 +1,39 @@
 {
-  "tasks":[
-  {
-  "id":1,
-  "title":"Bills",
-  "discription":"Pay bill",
-  "complete":true,
-  "canceled":true,
-  "date":1862019
-  },
-  {
-  "id":2,
-  "title":"Gym",
-  "discription":"Go to gym",
-  "complete":false,
-  "canceled":false,
-  "date":1962019
-  },
-  {
-  "id":3,
-  "title":"Assignment",
-  "discription":"Submit assignment",
-  "complete":true,
-  "canceled":true,
-  "date":2062019
-  }]
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Bills",
+      "discription": "Pay bill",
+      "complete": true,
+      "canceled": true      
+    },
+    {
+      "id": 2,
+      "title": "Gym",
+      "discription": "Go to gym",
+      "complete": false,
+      "canceled": false
+    },
+    {
+      "id": 3,
+      "title": "Assignment",
+      "discription": "Submit assignment",
+      "complete": true,
+      "canceled": true
+    },
+    {
+      "id": 11,
+      "title": "job",
+      "discription": "get a job",
+      "completed": false,
+      "canceled": false
+    },
+    {
+      "id": 5,
+      "title": "college",
+      "discription": "go to college",
+      "completed": false,
+      "canceled": false
+    }
+  ]
 }
