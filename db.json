@@ -4,21 +4,21 @@
       "id": 1,
       "title": "Bills",
       "discription": "Pay bill",
-      "complete": true,
+      "completed": true,
       "canceled": true      
     },
     {
       "id": 2,
       "title": "Gym",
       "discription": "Go to gym",
-      "complete": false,
+      "completed": false,
       "canceled": false
     },
     {
       "id": 3,
       "title": "Assignment",
       "discription": "Submit assignment",
-      "complete": true,
+      "completed": true,
       "canceled": true
     },
     {
